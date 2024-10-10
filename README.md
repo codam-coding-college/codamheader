@@ -1,10 +1,10 @@
-# **42 Header**
+# **Codam Header**
 
-42 (Paris)
+Codam (42 Amsterdam)
 
 ### **Description**
 
-42 standard header for vim editor.
+Codam standard header for vim editor.
 
 ![42 header](img/42header.jpg)
 
@@ -24,7 +24,7 @@ Add in `~/.zshrc` your:
 
 ```vim
 let g:user42 = 'yourLogin'
-let g:mail42 = 'yourLogin@student.42.fr'
+let g:mail42 = 'yourLogin@student.codam.nl'
 ```
 
 ### **Usage**
@@ -43,10 +43,11 @@ Inside the **42 clusters** you can easily run:
 
 ### **Credits**
 
-[@zazard](https://github.com/zazard) - creator  
-[@alexandregv](https://github.com/alexandregv) - contributor  
-[@mjacq42](https://github.com/mjacq42) - contributor  
-[@sungmcho](https://github.com/lordtomi0325) - contributor  
+[@zazard](https://github.com/zazard) - creator
+[@alexandregv](https://github.com/alexandregv) - contributor
+[@mjacq42](https://github.com/mjacq42) - contributor
+[@sungmcho](https://github.com/lordtomi0325) - contributor
+[@FreekBes](https://github.com/FreekBes) - contributor
 
 ### **License**
 
